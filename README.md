@@ -11,7 +11,7 @@ editor. It looks promising to me. Although, Neovim's still my go-to.
 Hopefully, I'd get to write Rust professionally.
 
 Python and Haskell are the languages I think code in. Professionally,
-I have worked with Python, Ruby, Clojure and Java.
+I have worked with Python, Ruby, Clojure and (a tiny bit) Java.
 
 <!--
 **crodjer/crodjer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
