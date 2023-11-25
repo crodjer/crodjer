@@ -1,6 +1,6 @@
 ### Hi there 👋. I am Rohan.
 
-I am currently working as a Senior Software Engineer at Atlassian.
+I am currently working as a Senior Engineer at Atlassian.
 
 Personally, I am trying to improve my Rust skills. I built [sysit](https://github.com/crodjer/sysit),
 a light weight tool to monitor system resources. Primarily, for my
